@@ -1,2 +1,37 @@
+#eg1{
+    width:600px;
+	height:400px;
+	border-style:solid;
+	margin:20px;
+}
+#eg2{
+	width:500px;
+	height:320px;
+	border:15px solid blue;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:30px;
+	background-color:blue;
+}
+#eg3{
+    width:360px;
+	height:180px;
+	background-color:lightblue;
+	margin:20px;
+	padding:50px;
+}
+#eg4{
+    width:300px;
+	height:100px;
+	background-color:lightblue;
+    border-style:groove;
+	padding:40px;
+}
+#eg5{
+	width:330px;
+	font-size:20px;
+	font-family:bidi-override;
+	border-style:dashed
+	
+}
 
-/* Your CSS Code here. */
